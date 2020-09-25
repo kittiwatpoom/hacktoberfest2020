@@ -5,6 +5,7 @@ export default class Jan extends Component {
         return (
             <div>
                 happy
+                I'm not happy
             </div>
         )
     }
