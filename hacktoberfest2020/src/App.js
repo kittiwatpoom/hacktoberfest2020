@@ -10,6 +10,7 @@ function App() {
       <Navbar />
       <Button />
       <Jan />
+      งงดิ
     </div>
   );
 }
